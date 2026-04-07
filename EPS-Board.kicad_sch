@@ -40,7 +40,7 @@
 			)
 		)
 		(instances
-			(project "PDU-Board"
+			(project "EPS-Board"
 				(path "/77f2ee50-0f6b-4157-a783-5a17adec8e76"
 					(page "2")
 				)
